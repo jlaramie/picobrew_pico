@@ -1,6 +1,7 @@
 import json
 import os
 import uuid
+import xmltodict
 
 from .config import zymatic_recipe_path, pico_recipe_path, zseries_recipe_path
 from .model import PICO_LOCATION, ZYMATIC_LOCATION, ZSERIES_LOCATION
@@ -379,3 +380,7 @@ def PicoBrewRecipeImport(recipe, rfid=None):
     if not filename.exists():
         with open(filename, "w") as file:
             json.dump(r, file, indent=4, sort_keys=True)
+
+def import_recipes_beer_xml(self, filename):
+    filename = pico_recipe_path().joinpath('{}.json'.format(self.name_))
+    # with open(filename, 'w') as f:
