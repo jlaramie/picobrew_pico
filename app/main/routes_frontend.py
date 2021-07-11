@@ -83,6 +83,26 @@ def new_zymatic_recipe():
     else:
         return render_template_with_defaults('new_zymatic_recipe.html')
 
+@main.route('/zymatic_recipes/<recipe_id>', methods=['GET'])
+def zymatic_recipe(recipe_id):
+    files = list(zymatic_recipe_path().glob(file_glob_pattern))
+    recipe = None
+    for filename in files:
+        recipe = load_zymatic_recipe(filename)
+        if recipe.id == recipe_id:
+            current_app.logger.error(f'found recipe: {recipe.serialize()}')
+            break
+
+    if (recipe == None):
+        recipe = invalid_recipes.get(MachineType.ZYMATIC, set())
+        current_app.logger.error(f'no found recipe: {recipe.serialize()}')
+    else:
+        recipe = json.loads(json.dumps(recipe, default=lambda r: r.__dict__))
+
+    # recipe['name'] = "test 2"
+
+    return render_template_with_defaults('recipe.html', recipe=recipe)
+
 
 @main.route('/import_zymatic_recipe', methods=['GET', 'POST'])
 def import_zymatic_recipe():
@@ -222,7 +242,7 @@ def update_device_session(uid, session_type):
         return f'Invalid session type provided {session_type}', 418
 
 
-ALLOWED_EXTENSIONS = {'json'}
+ALLOWED_EXTENSIONS = {'json','xml'}
 
 
 def allowed_extension(filename):

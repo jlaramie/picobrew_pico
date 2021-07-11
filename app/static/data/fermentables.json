@@ -1,0 +1,1544 @@
+[
+  {
+    "id": 1,
+    "name": "American Black Barley",
+    "color": 530,
+    "yield": 26.7,
+    "type": "Grain"
+  },
+  {
+    "id": 2,
+    "name": "American Black Patent",
+    "color": 500,
+    "yield": 27.8,
+    "type": "Grain"
+  },
+  {
+    "id": 3,
+    "name": "American Chocolate",
+    "color": 350,
+    "yield": 27.6,
+    "type": "Grain"
+  },
+  {
+    "id": 4,
+    "name": "American Crystal 10L",
+    "color": 10,
+    "yield": 35,
+    "type": "Grain"
+  },
+  {
+    "id": 5,
+    "name": "American Crystal 20L",
+    "color": 20,
+    "yield": 35,
+    "type": "Grain"
+  },
+  {
+    "id": 6,
+    "name": "American Crystal 30L",
+    "color": 30,
+    "yield": 35,
+    "type": "Grain"
+  },
+  {
+    "id": 7,
+    "name": "American Crystal 40L",
+    "color": 40,
+    "yield": 34,
+    "type": "Grain"
+  },
+  {
+    "id": 8,
+    "name": "American Crystal 60L",
+    "color": 60,
+    "yield": 34,
+    "type": "Grain"
+  },
+  {
+    "id": 9,
+    "name": "American Crystal 80L",
+    "color": 80,
+    "yield": 34,
+    "type": "Grain"
+  },
+  {
+    "id": 10,
+    "name": "American Crystal 90L",
+    "color": 90,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 11,
+    "name": "American Crystal 120L",
+    "color": 120,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 12,
+    "name": "American Munich Dark",
+    "color": 20,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 13,
+    "name": "American Munich Light",
+    "color": 9.9,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 14,
+    "name": "American Roasted Barley",
+    "color": 300,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 15,
+    "name": "American Six-Row Pale",
+    "color": 2,
+    "yield": 35,
+    "type": "Grain"
+  },
+  {
+    "id": 16,
+    "name": "American Soft White Wheat",
+    "color": 2.75,
+    "yield": 39.6,
+    "type": "Grain"
+  },
+  {
+    "id": 17,
+    "name": "American Special Roast",
+    "color": 40,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 18,
+    "name": "American Two-Row Pale",
+    "color": 1.8,
+    "yield": 36.8,
+    "type": "Grain"
+  },
+  {
+    "id": 19,
+    "name": "American Two-Row Toasted",
+    "color": 30,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 20,
+    "name": "American Victory",
+    "color": 25,
+    "yield": 33.6,
+    "type": "Grain"
+  },
+  {
+    "id": 21,
+    "name": "American Vienna",
+    "color": 4,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 22,
+    "name": "American Wheat",
+    "color": 1.65,
+    "yield": 38.5,
+    "type": "Grain"
+  },
+  {
+    "id": 23,
+    "name": "Basmati Rice",
+    "color": 0.55,
+    "yield": 37.7,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 24,
+    "name": "Belgian Aromatic",
+    "color": 25,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 25,
+    "name": "Belgian Biscuit",
+    "color": 23.1,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 26,
+    "name": "Belgian Candi Sugar Amber",
+    "color": 75,
+    "yield": 44.6,
+    "type": "Sugar"
+  },
+  {
+    "id": 27,
+    "name": "Belgian Candi Sugar Dark",
+    "color": 275,
+    "yield": 44.6,
+    "type": "Sugar"
+  },
+  {
+    "id": 28,
+    "name": "Belgian CaraMunich",
+    "color": 75,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 29,
+    "name": "Belgian Carapils",
+    "color": 8,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 30,
+    "name": "Belgian Caravienne",
+    "color": 22,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 31,
+    "name": "Belgian Carmel Pils",
+    "color": 7.9,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 32,
+    "name": "Belgian Chocolate",
+    "color": 500,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 33,
+    "name": "Belgian Munich",
+    "color": 7.7,
+    "yield": 31.6,
+    "type": "Grain"
+  },
+  {
+    "id": 34,
+    "name": "Belgian Pale Ale",
+    "color": 2,
+    "yield": 35.8,
+    "type": "Grain"
+  },
+  {
+    "id": 35,
+    "name": "Belgian Pils",
+    "color": 1.5,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 36,
+    "name": "Belgian Roasted Barley",
+    "color": 575,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 37,
+    "name": "Belgian Special B",
+    "color": 221,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 38,
+    "name": "Belgian Two-row Pale",
+    "color": 3,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 39,
+    "name": "Belgian Wheat",
+    "color": 1.9,
+    "yield": 37.7,
+    "type": "Grain"
+  },
+  {
+    "id": 40,
+    "name": "Black Patent",
+    "color": 500,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 41,
+    "name": "British Amber",
+    "color": 35,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 42,
+    "name": "British Black Patent",
+    "color": 575,
+    "yield": 26.7,
+    "type": "Grain"
+  },
+  {
+    "id": 43,
+    "name": "British Brown",
+    "color": 70,
+    "yield": 31.6,
+    "type": "Grain"
+  },
+  {
+    "id": 44,
+    "name": "British Cara-Malt",
+    "color": 9.9,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 45,
+    "name": "British Carastan",
+    "color": 34.1,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 46,
+    "name": "British Chocolate",
+    "color": 475,
+    "yield": 33.6,
+    "type": "Grain"
+  },
+  {
+    "id": 47,
+    "name": "British Crystal 50-60L",
+    "color": 55,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 48,
+    "name": "British Crystal 65L",
+    "color": 65,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 49,
+    "name": "British Crystal 70-80L",
+    "color": 75,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 50,
+    "name": "British Crystal 95-115L",
+    "color": 105,
+    "yield": 32.725,
+    "type": "Grain"
+  },
+  {
+    "id": 51,
+    "name": "British Crystal 135-165L",
+    "color": 150,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 52,
+    "name": "British Lager Two-row",
+    "color": 1.4,
+    "yield": 37.7,
+    "type": "Grain"
+  },
+  {
+    "id": 53,
+    "name": "British Light Carastan",
+    "color": 15,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 54,
+    "name": "British Mild",
+    "color": 4,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 55,
+    "name": "British Munich",
+    "color": 6,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 56,
+    "name": "British Pale Chocolate",
+    "color": 200,
+    "yield": 33.6,
+    "type": "Grain"
+  },
+  {
+    "id": 57,
+    "name": "British Peated",
+    "color": 5,
+    "yield": 37.7,
+    "type": "Grain"
+  },
+  {
+    "id": 58,
+    "name": "British Pilsener",
+    "color": 1.9,
+    "yield": 35.8,
+    "type": "Grain"
+  },
+  {
+    "id": 59,
+    "name": "British Roasted Barley",
+    "color": 575,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 60,
+    "name": "British Two-row Pale",
+    "color": 2.5,
+    "yield": 37.7,
+    "type": "Grain"
+  },
+  {
+    "id": 61,
+    "name": "Brown Sugar",
+    "color": 1.9,
+    "yield": 44.6,
+    "type": "Sugar"
+  },
+  {
+    "id": 62,
+    "name": "Buckwheat malted",
+    "color": 2,
+    "yield": 29,
+    "type": "Grain"
+  },
+  {
+    "id": 63,
+    "name": "Canadian Honey Malt",
+    "color": 25,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 64,
+    "name": "Canadian Munich (Dark)",
+    "color": 15.1,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 65,
+    "name": "Canadian Munich (Light)",
+    "color": 15.1,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 66,
+    "name": "Canadian Two-row Pale",
+    "color": 2.2,
+    "yield": 35.75,
+    "type": "Grain"
+  },
+  {
+    "id": 67,
+    "name": "Candi Sugar",
+    "color": 1.1,
+    "yield": 44.55,
+    "type": "Sugar"
+  },
+  {
+    "id": 68,
+    "name": "Cane sugar",
+    "color": 1.1,
+    "yield": 45.65,
+    "type": "Sugar"
+  },
+  {
+    "id": 69,
+    "name": "CaraPils",
+    "color": 1.5,
+    "yield": 33.12,
+    "type": "Grain"
+  },
+  {
+    "id": 70,
+    "name": "CaraFoam",
+    "color": 3,
+    "yield": 32.725,
+    "type": "Grain"
+  },
+  {
+    "id": 71,
+    "name": "Caramel Light ",
+    "color": 4.95,
+    "yield": 32.725,
+    "type": "Grain"
+  },
+  { "id": 72, "name": "Carared", "color": 20, "yield": 35, "type": "Grain" },
+  { "id": 73, "name": "Chocolate", "color": 350, "yield": 33, "type": "Grain" },
+  {
+    "id": 74,
+    "name": "Golden Naked Oats",
+    "color": 6.55,
+    "yield": 36.5,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 75,
+    "name": "Corn Sugar (Dextrose)",
+    "color": 0,
+    "yield": 45.65,
+    "type": "Sugar"
+  },
+  {
+    "id": 76,
+    "name": "Corn Syrup",
+    "color": 1.1,
+    "yield": 44.55,
+    "type": "Sugar"
+  },
+  {
+    "id": 77,
+    "name": "Crystal 5L",
+    "color": 4.95,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 78,
+    "name": "Crystal 10L",
+    "color": 9.9,
+    "yield": 30.8,
+    "type": "Grain"
+  },
+  {
+    "id": 79,
+    "name": "Crystal 20L",
+    "color": 20,
+    "yield": 30.8,
+    "type": "Grain"
+  },
+  {
+    "id": 80,
+    "name": "Crystal 40L",
+    "color": 40,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 81,
+    "name": "Crystal 55L",
+    "color": 55,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 82,
+    "name": "Crystal 60L",
+    "color": 60,
+    "yield": 34,
+    "type": "Grain"
+  },
+  {
+    "id": 83,
+    "name": "Crystal 80L",
+    "color": 80,
+    "yield": 34,
+    "type": "Grain"
+  },
+  {
+    "id": 84,
+    "name": "Crystal 100L",
+    "color": 100,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 85,
+    "name": "Crystal 120L",
+    "color": 120,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 86,
+    "name": "Crystal 135L",
+    "color": 135,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 87,
+    "name": "Crystal 200L",
+    "color": 200,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 88,
+    "name": "Dark Dry Malt Extract",
+    "color": 80,
+    "yield": 41.5,
+    "type": "DryExtract"
+  },
+  { "id": 89, "name": "Light LME", "color": 4, "yield": 35, "type": "Extract" },
+  { "id": 90, "name": "Dextrin", "color": 1.4, "yield": 30.8, "type": "Grain" },
+  {
+    "id": 91,
+    "name": "Flaked Barley",
+    "color": 2.2,
+    "yield": 31.6,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 92,
+    "name": "Flaked Corn",
+    "color": 0.55,
+    "yield": 39.6,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 93,
+    "name": "Flaked Kamut",
+    "color": 1.9,
+    "yield": 30.8,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 94,
+    "name": "Flaked Oats",
+    "color": 2.2,
+    "yield": 32.7,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 95,
+    "name": "Flaked Rye",
+    "color": 2.8,
+    "yield": 35.8,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 96,
+    "name": "Flaked Rice",
+    "color": 0.55,
+    "yield": 39.6,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 97,
+    "name": "Flaked Wheat",
+    "color": 1.9,
+    "yield": 34,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 98,
+    "name": "German Acid Malt",
+    "color": 1.9,
+    "yield": 33.6,
+    "type": "Grain"
+  },
+  {
+    "id": 99,
+    "name": "Carafa Special Type 1 (dehusked)",
+    "color": 325,
+    "yield": 30,
+    "type": "Grain"
+  },
+  {
+    "id": 100,
+    "name": "German Carafa Chocolate Malt",
+    "color": 525,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 101,
+    "name": "German Carafa Special",
+    "color": 600,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 102,
+    "name": "German Carahell",
+    "color": 12.1,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 103,
+    "name": "German Dark Caramel",
+    "color": 64.9,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 104,
+    "name": "German Dark wheat",
+    "color": 8,
+    "yield": 38.5,
+    "type": "Grain"
+  },
+  {
+    "id": 105,
+    "name": "German Light Caramel",
+    "color": 2.5,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 106,
+    "name": "German Munich",
+    "color": 8,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 107,
+    "name": "German Pilsener",
+    "color": 1.65,
+    "yield": 37.675,
+    "type": "Grain"
+  },
+  {
+    "id": 108,
+    "name": "German Roasted Wheat",
+    "color": 650,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 109,
+    "name": "German Smoked",
+    "color": 9.075,
+    "yield": 36.575,
+    "type": "Grain"
+  },
+  {
+    "id": 110,
+    "name": "German Vienna",
+    "color": 3.5,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 111,
+    "name": "German Wheat",
+    "color": 1.925,
+    "yield": 38.5,
+    "type": "Grain"
+  },
+  {
+    "id": 112,
+    "name": "German Wheat Caramel",
+    "color": 55,
+    "yield": 37.675,
+    "type": "Grain"
+  },
+  { "id": 113, "name": "Honey", "color": 1.4, "yield": 34.65, "type": "Sugar" },
+  {
+    "id": 114,
+    "name": "Lager Two-row",
+    "color": 1.9,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 115,
+    "name": "Lager Six-row",
+    "color": 1.65,
+    "yield": 30.8,
+    "type": "Grain"
+  },
+  {
+    "id": 116,
+    "name": "Light Dry Malt Extract",
+    "color": 1.9,
+    "yield": 43.7,
+    "type": "DryExtract"
+  },
+  {
+    "id": 117,
+    "name": "Munich LME",
+    "color": 8,
+    "yield": 35,
+    "type": "Extract"
+  },
+  {
+    "id": 118,
+    "name": "Millet",
+    "color": 1,
+    "yield": 29,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 119,
+    "name": "Molasses",
+    "color": 9.9,
+    "yield": 37.675,
+    "type": "Sugar"
+  },
+  {
+    "id": 120,
+    "name": "Munich Dark",
+    "color": 17.9,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 121,
+    "name": "Munich Light",
+    "color": 8,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 122,
+    "name": "Pils Two-row",
+    "color": 1.1,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 123,
+    "name": "Pils Six-row",
+    "color": 1.9,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 124,
+    "name": "Rice",
+    "color": 0.55,
+    "yield": 39.6,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 125,
+    "name": "Rice Syrup",
+    "color": 0,
+    "yield": 35.75,
+    "type": "Sugar"
+  },
+  {
+    "id": 126,
+    "name": "Roasted Barley",
+    "color": 450,
+    "yield": 25.3,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 127,
+    "name": "Roasted Rye",
+    "color": 500,
+    "yield": 28.6,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 128,
+    "name": "Rolled Oats",
+    "color": 2.2,
+    "yield": 24.75,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 129,
+    "name": "Rye",
+    "color": 3.6,
+    "yield": 29.7,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 130,
+    "name": "Torrified Wheat",
+    "color": 1.9,
+    "yield": 35.75,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 131,
+    "name": "Victory Malt",
+    "color": 6.8,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 132,
+    "name": "Vienna Malt",
+    "color": 4,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 133,
+    "name": "Wheat Dry Malt Extract",
+    "color": 2.75,
+    "yield": 45.65,
+    "type": "DryExtract"
+  },
+  {
+    "id": 134,
+    "name": "Wheat Malt",
+    "color": 1.65,
+    "yield": 38.5,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 135,
+    "name": "Belgian Dark Candi Syrup",
+    "color": 150,
+    "yield": 30.8,
+    "type": "Sugar"
+  },
+  {
+    "id": 136,
+    "name": "Other (See Notes)",
+    "color": 0,
+    "yield": 0,
+    "type": "Grain"
+  },
+  {
+    "id": 137,
+    "name": "Invert sugar",
+    "color": 1.4,
+    "yield": 44.65,
+    "type": "DryExtract"
+  },
+  {
+    "id": 138,
+    "name": "American Crystal 15L",
+    "color": 15,
+    "yield": 31.85,
+    "type": "Grain"
+  },
+  {
+    "id": 139,
+    "name": "Belgian Candi Sugar Clear",
+    "color": 1,
+    "yield": 44.55,
+    "type": "Sugar"
+  },
+  {
+    "id": 140,
+    "name": "Midnight Wheat",
+    "color": 550,
+    "yield": 38.5,
+    "type": "Grain"
+  },
+  {
+    "id": 141,
+    "name": "Maris Otter Ale Malt",
+    "color": 4,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 142,
+    "name": "Optic Pale ",
+    "color": 2.5,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 143,
+    "name": "Melanoidan ",
+    "color": 20,
+    "yield": 34.5,
+    "type": "Grain"
+  },
+  {
+    "id": 144,
+    "name": "Quinoa",
+    "color": 1.9,
+    "yield": 39,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 145,
+    "name": "Turbindao Sugar",
+    "color": 1,
+    "yield": 45,
+    "type": "Sugar"
+  },
+  {
+    "id": 146,
+    "name": "Maple Syrup",
+    "color": 2,
+    "yield": 36,
+    "type": "Sugar"
+  },
+  {
+    "id": 147,
+    "name": "Golden Syrup",
+    "color": 1,
+    "yield": 36,
+    "type": "Sugar"
+  },
+  {
+    "id": 148,
+    "name": "Gambrinus ESB Pale Malt",
+    "color": 3.5,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 149,
+    "name": "De-bittered Black ",
+    "color": 550,
+    "yield": 28,
+    "type": "Grain"
+  },
+  {
+    "id": 150,
+    "name": "Simpson&#39;s Naked Oats",
+    "color": 7.5,
+    "yield": 38.5,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 151,
+    "name": "Naked Oats",
+    "color": 6,
+    "yield": 36.5,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 152,
+    "name": "Amber LME",
+    "color": 10,
+    "yield": 35,
+    "type": "Extract"
+  },
+  {
+    "id": 153,
+    "name": "Dark LME",
+    "color": 30,
+    "yield": 35,
+    "type": "Extract"
+  },
+  {
+    "id": 154,
+    "name": "Extra Light LME",
+    "color": 2,
+    "yield": 37,
+    "type": "DryExtract"
+  },
+  {
+    "id": 155,
+    "name": "Oak Smoked pale",
+    "color": 2,
+    "yield": 37,
+    "type": "Grain"
+  },
+  {
+    "id": 156,
+    "name": "Pilsen LME",
+    "color": 2,
+    "yield": 35,
+    "type": "Extract"
+  },
+  {
+    "id": 157,
+    "name": "Wheat LME",
+    "color": 3,
+    "yield": 35,
+    "type": "Extract"
+  },
+  {
+    "id": 158,
+    "name": "White Sorghum Syrup",
+    "color": 1,
+    "yield": 44,
+    "type": "Extract"
+  },
+  { "id": 159, "name": "Halcyon UK", "color": 2, "yield": 35, "type": "Grain" },
+  {
+    "id": 160,
+    "name": "Lactose Milk Sugar",
+    "color": 1,
+    "yield": 45,
+    "type": "Sugar"
+  },
+  {
+    "id": 161,
+    "name": "Simpson Golden Promise",
+    "color": 2,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 162,
+    "name": "American Crystal 75L",
+    "color": 75,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 163,
+    "name": "Weyerman CaraAroma",
+    "color": 130,
+    "yield": 30,
+    "type": "Grain"
+  },
+  { "id": 164, "name": "Jaggery", "color": 2, "yield": 44.55, "type": "Sugar" },
+  {
+    "id": 165,
+    "name": "Rahr 2row Standard",
+    "color": 1.8,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 166,
+    "name": "German CaraMunich",
+    "color": 35.5,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 167,
+    "name": "German CaraMunich II",
+    "color": 44,
+    "yield": 33.55,
+    "type": "Grain"
+  },
+  {
+    "id": 168,
+    "name": "German CaraMunich III",
+    "color": 57,
+    "yield": 33.65,
+    "type": "Grain"
+  },
+  {
+    "id": 169,
+    "name": "German Caraaroma",
+    "color": 140,
+    "yield": 33.65,
+    "type": "Grain"
+  },
+  {
+    "id": 170,
+    "name": "Swiss Pils",
+    "color": 1.75,
+    "yield": 37.675,
+    "type": "Grain"
+  },
+  {
+    "id": 171,
+    "name": "Simpsons Dbl Roasted Crytal",
+    "color": 110,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 172,
+    "name": "Coffee Malt",
+    "color": 150,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 173,
+    "name": "Schill Kolsch Malt",
+    "color": 3.5,
+    "yield": 32.725,
+    "type": "Grain"
+  },
+  {
+    "id": 174,
+    "name": "German Pale ",
+    "color": 2,
+    "yield": 36.575,
+    "type": "Grain"
+  },
+  {
+    "id": 175,
+    "name": "Weyermann Carabohemian",
+    "color": 70,
+    "yield": 34.5,
+    "type": "Grain"
+  },
+  {
+    "id": 176,
+    "name": "Weyermann Chocolate Wheat ",
+    "color": 400,
+    "yield": 37.5,
+    "type": "Grain"
+  },
+  {
+    "id": 177,
+    "name": "Red Wheat Malt ",
+    "color": 2.3,
+    "yield": 37,
+    "type": "Grain"
+  },
+  {
+    "id": 178,
+    "name": "Michigan Two-Row",
+    "color": 1.8,
+    "yield": 36.575,
+    "type": "Grain"
+  },
+  {
+    "id": 179,
+    "name": "Michigan Six-Row",
+    "color": 1.8,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 180,
+    "name": "Extra Special Malt",
+    "color": 130,
+    "yield": 28.6,
+    "type": "Grain"
+  },
+  {
+    "id": 181,
+    "name": "Best Red X malt",
+    "color": 12,
+    "yield": 34.65,
+    "type": "Grain"
+  },
+  {
+    "id": 182,
+    "name": "Cherrywood Smoked",
+    "color": 5.1,
+    "yield": 36.575,
+    "type": "Grain"
+  },
+  {
+    "id": 183,
+    "name": "Belgian Cara Blonde",
+    "color": 8,
+    "yield": 35.65,
+    "type": "Grain"
+  },
+  {
+    "id": 184,
+    "name": "Irish Ale Malt",
+    "color": 2.8,
+    "yield": 32.65,
+    "type": "Grain"
+  },
+  {
+    "id": 185,
+    "name": "Irish Stout Malt",
+    "color": 2,
+    "yield": 32.265,
+    "type": "Grain"
+  },
+  {
+    "id": 186,
+    "name": "Crisp 15L",
+    "color": 15,
+    "yield": 35.65,
+    "type": "Grain"
+  },
+  {
+    "id": 187,
+    "name": "Crisp C Light 45",
+    "color": 45,
+    "yield": 34.365,
+    "type": "Grain"
+  },
+  {
+    "id": 188,
+    "name": "American Crystal 150L",
+    "color": 150,
+    "yield": 32.725,
+    "type": "Grain"
+  },
+  {
+    "id": 189,
+    "name": "Weyermann Bohemian Pilsner Malt",
+    "color": 1.8,
+    "yield": 37,
+    "type": "Grain"
+  },
+  {
+    "id": 190,
+    "name": "Floor-Malted Bohemian Pilsner Malt",
+    "color": 2,
+    "yield": 37,
+    "type": "Grain"
+  },
+  {
+    "id": 191,
+    "name": "Floor-Malted Bohemian  Dark Malt",
+    "color": 6.5,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 192,
+    "name": "Oak Smoked Wheat",
+    "color": 2.5,
+    "yield": 37.65,
+    "type": "DryExtract"
+  },
+  {
+    "id": 193,
+    "name": "Weyermann Oak Smoked Wheat",
+    "color": 2.5,
+    "yield": 37.65,
+    "type": "Grain"
+  },
+  {
+    "id": 194,
+    "name": "CaraBrown",
+    "color": 55,
+    "yield": 33.65,
+    "type": "Grain"
+  },
+  {
+    "id": 195,
+    "name": "White Wheat Malt",
+    "color": 2,
+    "yield": 37.5,
+    "type": "Grain"
+  },
+  {
+    "id": 196,
+    "name": "Malted Oats",
+    "color": 2,
+    "yield": 32.75,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 197,
+    "name": "Weyermann Rye",
+    "color": 3.5,
+    "yield": 32.725,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 198,
+    "name": "Weyermann Cararye",
+    "color": 64,
+    "yield": 32.725,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 199,
+    "name": "Chocolate Rye",
+    "color": 250,
+    "yield": 32,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 200,
+    "name": "Pearl",
+    "color": 2.5,
+    "yield": 37.365,
+    "type": "Grain"
+  },
+  {
+    "id": 201,
+    "name": "Spelt",
+    "color": 4,
+    "yield": 37.274,
+    "type": "OtherGrain"
+  },
+  { "id": 202, "name": "Chit", "color": 1.2, "yield": 37.265, "type": "Grain" },
+  {
+    "id": 203,
+    "name": "Franco Belges Amber Kiln",
+    "color": 19,
+    "yield": 29.7,
+    "type": "Grain"
+  },
+  {
+    "id": 204,
+    "name": "GWM Crystal Wheat Malt",
+    "color": 45,
+    "yield": 32.675,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 205,
+    "name": "Weyermann CaraWheat",
+    "color": 42,
+    "yield": 32.675,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 206,
+    "name": "Weyermann Dark Wheat ",
+    "color": 7,
+    "yield": 32.675,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 207,
+    "name": "Blackprinz debittered",
+    "color": 500,
+    "yield": 32.675,
+    "type": "Grain"
+  },
+  {
+    "id": 208,
+    "name": "Caramel Rye",
+    "color": 60,
+    "yield": 32,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 209,
+    "name": "Skagit Valley Alba",
+    "color": 2.5,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 210,
+    "name": "Skagit Valley Copeland",
+    "color": 2.8,
+    "yield": 37,
+    "type": "Grain"
+  },
+  {
+    "id": 211,
+    "name": "Full Pint Base malt",
+    "color": 1.8,
+    "yield": 36.6,
+    "type": "Grain"
+  },
+  {
+    "id": 212,
+    "name": "Bestmalz Caramel Aromatic 50",
+    "color": 25,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 213,
+    "name": "Black Pearl Malt",
+    "color": 340,
+    "yield": 27.8,
+    "type": "Grain"
+  },
+  {
+    "id": 214,
+    "name": "Weyermann Barke Pils",
+    "color": 2,
+    "yield": 32.7,
+    "type": "Grain"
+  },
+  {
+    "id": 215,
+    "name": "Patagonia Pale",
+    "color": 1.5,
+    "yield": 32.8,
+    "type": "Grain"
+  },
+  {
+    "id": 216,
+    "name": "Patagonia Perle Negra",
+    "color": 350,
+    "yield": 27,
+    "type": "Grain"
+  },
+  {
+    "id": 217,
+    "name": "Patagonia 170L",
+    "color": 170,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 218,
+    "name": "Patagonia Dark Chocolate",
+    "color": 450,
+    "yield": 27.5,
+    "type": "Grain"
+  },
+  {
+    "id": 219,
+    "name": "Pale Chocolate",
+    "color": 250,
+    "yield": 33.5,
+    "type": "Grain"
+  },
+  { "id": 220, "name": "Rauch Malt", "color": 4, "yield": 37, "type": "Grain" },
+  {
+    "id": 221,
+    "name": "Abbey Malt",
+    "color": 17,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 222,
+    "name": "Carafa Special Type 3 (dehusked)",
+    "color": 525,
+    "yield": 30,
+    "type": "Grain"
+  },
+  {
+    "id": 223,
+    "name": "Citric Acid",
+    "color": 0,
+    "yield": 0,
+    "type": "OtherGrain"
+  },
+  {
+    "id": 224,
+    "name": "Skagit Caramel 15",
+    "color": 20,
+    "yield": 36,
+    "type": "Grain"
+  },
+  {
+    "id": 225,
+    "name": "Skagit Dark 80",
+    "color": 80,
+    "yield": 33,
+    "type": "Grain"
+  },
+  {
+    "id": 226,
+    "name": "German Carafa",
+    "color": 300,
+    "yield": 30,
+    "type": "Grain"
+  },
+  {
+    "id": 227,
+    "name": "Carafa Special Type 2 (dehusked)",
+    "color": 425,
+    "yield": 30,
+    "type": "Grain"
+  },
+  {
+    "id": 228,
+    "name": "Cocoa Powder",
+    "color": 0,
+    "yield": 0,
+    "type": "OtherGrain"
+  }
+]

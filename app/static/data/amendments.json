@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Calcium Carbonate",
+    "Description": "Chalk"
+  },
+  {
+    "id": 2,
+    "name": "Calcium Sulfate",
+    "description": "Gypsum"
+  },
+  {
+    "id": 3,
+    "name": "Calcium Chloride"
+  },
+  {
+    "id": 4,
+    "name": "Magnesium Sulfate",
+    "description": "Epsom Salt"
+  },
+  {
+    "id": 5,
+    "name": "Sodium Bicarbonate",
+    "description": "Baking Soda"
+  }
+]
